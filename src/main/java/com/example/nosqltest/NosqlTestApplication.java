@@ -1,0 +1,13 @@
+package com.example.nosqltest;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NosqlTestApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(NosqlTestApplication.class, args);
+    }
+
+}
